@@ -6,7 +6,7 @@ def array_with_two_elements
   ["apple", "orange"]
 end
 
-def my_first_element(first_element)
+def first_element(first_element)
   array[0]
 end
 
